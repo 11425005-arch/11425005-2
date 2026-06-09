@@ -4,7 +4,7 @@
 
 求解下列拉普拉斯反轉換方程：
 
-$$\mathcal{L}^{-1} \left\{ \frac{1 - e^{-3s}}{s(s + 4)} \right\}$$
+$$\mathcal{L}^{-1} \left[ \frac{1 - e^{-3s}}{s(s + 4)} \right]$$
 
 ---
 
